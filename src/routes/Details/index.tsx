@@ -22,6 +22,7 @@ const Details = () => {
       />
       <Text>{title}</Text>
       <SampleComponent name="Prakruthi" rollNo={23} />
+      <Text>{'Changes'}</Text>
     </View>
   );
 };
